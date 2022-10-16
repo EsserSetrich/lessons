@@ -26,4 +26,4 @@ __Жирный__
 
 Это Panzerkampfwagen VIII [Maus]( https://ru.wikipedia.org/wiki/Маус_(танк))
 
-![Картинка](https://img-fotki.yandex.ru/get/9224/120219633.5b/0_9d09c_96bcfe5a_orig.jpg)
+![Картинка](https://autogear.ru/misc/i/gallery/41600/2449213.jpg)
