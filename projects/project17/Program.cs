@@ -32,4 +32,5 @@ for (int k = 0; k < array.Length; k++)
         sum_odd_number = sum_odd_number + array[k];
     }
 }
+
 Console.WriteLine($"сумма нечетных позицый {sum_odd_number}");
